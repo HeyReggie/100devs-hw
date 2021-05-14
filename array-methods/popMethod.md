@@ -1,6 +1,6 @@
 # Pop Method - removes the last element from an array and returns that element. This method changes the length of the array.
 
-## Time Complexity - O(n) Linear
+## Time Complexity - O(1) Constant Time always takes the same amount of time.
 
 ### Example 1
 
