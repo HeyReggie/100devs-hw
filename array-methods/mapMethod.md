@@ -1,4 +1,4 @@
-# Map Method - creates a new array containing the results of calling a given function on every element in the array the method is called on.
+# Map Method - creates a new array containing the results of calling a given function on every element.
 
 ## Time Complexity - O(n) Linear because it scales in proportion to the number of elements.
 
