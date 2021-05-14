@@ -1,6 +1,6 @@
 # Shift Method - removes the first element from an array and returns that removed element. This method changes the length of the array.
 
-## Time Complexity - O(n) Linear
+## Time Complexity - O(n) Linear because the index of each element must be decremented by one.
 
 ### Example 1
 

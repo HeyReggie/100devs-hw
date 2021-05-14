@@ -1,6 +1,6 @@
 # Unshift Method - adds one or more elements to the beginning of an array and returns the new length of the array.
 
-## Time Complexity - O(1) Constant Time
+## Time Complexity - O(n) Linear because the index of each element must be incremented by one.
 
 ### Example 1
 
