@@ -5,5 +5,8 @@
 ### Example 1 - return all the elements in an array squared
 
 ```
-const example1 = (arr) => { let newArr = arr.map((el) => Math.pow(el, 2)); console.log(newArr); }; example1([1, 2, 3, 4, 5]); // Output: [1, 4, 9, 16, 25]
+const example1 = (arr) => {
+  let newArr = arr.map((el) => Math.pow(el, 2));
+  console.log(newArr); };
+  example1([1, 2, 3, 4, 5]); // Output: [1, 4, 9, 16, 25]
 ```
