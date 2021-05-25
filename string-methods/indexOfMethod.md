@@ -1,6 +1,6 @@
 # indexOf Method - returns the index within the calling String object of the first occurrence of the specified value, starting the search at the beginning or from the optional parameter fromIndex. Returns -1 if the value is not found.
 
-## Time Complexity - Logarithmic time O(log n)
+## Time Complexity - Linear O(n)
 
 ### Example 1 -
 
