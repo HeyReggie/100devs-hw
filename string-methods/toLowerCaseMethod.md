@@ -11,10 +11,13 @@ console.log(name.toLowerCase())
 // Output: 'reginald'
 ```
 
-### Example 2 -
+### Example 2 - type coercion
 
 ```
-console.log('ALPHABET'.toLowerCase()); // 'alphabet'
+const thisIshIs = 'B' + 'A' + + 'a' + 'a' + 'S'
+
+console.log(thisIshIs.toLowerCase())
+// Output: bananas
 ```
 
 ### Example 3 - doesn't affect original string
