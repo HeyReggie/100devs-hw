@@ -1,4 +1,4 @@
-# toLowerCase Method - returns the calling string value converted to lower case.
+# toLowerCase Method - returns the calling string value converted to lower case (the value will be converted to a string if it isn't one)
 
 ## Time Complexity - Linear O(n)
 
